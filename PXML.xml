@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PXML xmlns="http://openpandora.org/namespaces/PXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PXML_schema.xsd">
+<!-- please see http://pandorawiki.org/PXML_specification for more information before editing, and remember the order does matter -->
+
+  <application id="sqrisland.mrz" appdata="sqrisland.mrz">
+    <exec command="./run.sh"/>
+    <title lang="en_US">Sqr.Island</title>
+
+    <author name="mrz"/>
+    <version major="0" minor="2" release="0" build="1"/>	  
+    <osversion major="1" minor="0" release="0" build="0"/>		
+
+    <description lang="en_US">
+        Sqr.Island is a classic style Jump'n'Run written for the Pandora Rebirth Competition. 
+        
+        Your goal is to save the Island from an evil force trying to invade it.
+        
+        Contact: mrzesn@t-online.de
+    </description>
+
+
+    <previewpics>
+      <pic src="preview/screenshot0.png"/>
+      <pic src="preview/screenshot1.png"/>
+      <pic src="preview/screenshot2.png"/>
+      <pic src="preview/screenshot3.png"/>
+    </previewpics>
+    
+    <info name="Sqr.Island Licenses" type="text/text" src="licenses.txt"/>
+
+    <categories>
+      <category name="Game">
+        <subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+
+  </application>
+
+</PXML>
