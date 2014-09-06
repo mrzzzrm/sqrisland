@@ -1,0 +1,13 @@
+<animation>
+
+  <image path="bounce.png"/>
+
+
+	<frame>
+		<time ms="500"/>
+		<rect x="0" y="0" w="64" h="64"/>	
+	</frame>
+
+
+  
+</animation>

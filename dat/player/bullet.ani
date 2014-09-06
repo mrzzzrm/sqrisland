@@ -1,0 +1,8 @@
+<animation>
+  <image path="bullet.png"/>
+  
+  <frame>
+    <rect x="0" y="0" w="24" h="24"/>
+    <time ms="100"/>
+  </frame>
+</animation>

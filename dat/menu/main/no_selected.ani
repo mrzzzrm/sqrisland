@@ -1,0 +1,5 @@
+<animation>
+  <image path="newselection.png"/>
+  
+  <frame><rect x="0" y="160" w="320" h="80"/></frame>  
+</animation>

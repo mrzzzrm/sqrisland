@@ -1,0 +1,5 @@
+<animation>
+  <image path="mainselection.png"/>
+  
+  <frame><rect x="320" y="80" w="320" h="80"/></frame>  
+</animation>

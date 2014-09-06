@@ -1,0 +1,4 @@
+All source code is licensed under the GPL V2, see GPL.txt(contact mrzesn@t-online.de for sources)
+All media except for audio is licensed under the Creative Commons Attribution 3.0, see CC.txt
+All music is made by Tom Murphy, see tom7.org
+Sounds are taken from SuperTux and Public Domain

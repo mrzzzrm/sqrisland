@@ -1,0 +1,36 @@
+<animation>
+  <image path="../tri.png"/>
+  
+  <frame>
+    <time ms="51"/>
+    <rect x="0" y="55" w="61" h="55"/> 
+  </frame>
+  <frame>
+    <time ms="51"/>
+    <rect x="61" y="55" w="61" h="55"/> 
+  </frame>
+  <frame>
+    <time ms="51"/>
+    <rect x="122" y="55" w="61" h="55"/> 
+  </frame>
+  <frame>
+    <time ms="51"/>
+    <rect x="184" y="55" w="61" h="55"/> 
+  </frame>
+  <frame>
+    <time ms="51"/>
+    <rect x="245" y="55" w="61" h="55"/> 
+  </frame>
+  <frame>
+    <time ms="51"/>
+    <rect x="184" y="55" w="61" h="55"/> 
+  </frame>
+  <frame>
+    <time ms="51"/>
+    <rect x="122" y="55" w="61" h="55"/> 
+  </frame>
+  <frame>
+    <time ms="51"/>
+    <rect x="61" y="55" w="61" h="55"/> 
+  </frame>
+</animation>

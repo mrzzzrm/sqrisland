@@ -1,0 +1,9 @@
+<animation>
+  <image path="../tri.png"/>
+  
+  <frame>
+    <time ms="51"/>
+    <rect x="0" y="110" w="61" h="55"/> 
+  </frame>
+
+</animation>

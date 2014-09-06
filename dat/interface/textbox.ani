@@ -1,0 +1,7 @@
+<animation>
+  <image path="./textbox.png"/>
+
+  <frame>
+    <rect x="0" y="0" w="700" h="277"/>
+  </frame>
+</animation>

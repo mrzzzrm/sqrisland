@@ -1,0 +1,52 @@
+<animation>
+  <image path="egg.png"/>
+  
+  <frame>
+    <time ms="90"/>
+    <rect x="0" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="64" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="128" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="192" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="256" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="320" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="384" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="448" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="512" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="576" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="640" y="64" w="64" h="64"/>
+  </frame>
+  <frame>
+    <time ms="90"/>
+    <rect x="704" y="64" w="64" h="64"/>
+  </frame>
+</animation>

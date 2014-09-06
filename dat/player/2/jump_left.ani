@@ -1,0 +1,8 @@
+<animation>
+  <image path="../player.png"/>
+  
+  <frame>
+    <rect x="0" y="1056" w="96" h="96"/>
+    <time ms="100"/>
+  </frame>
+</animation>

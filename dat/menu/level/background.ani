@@ -1,0 +1,5 @@
+<animation>
+  <image path="background.png"/>
+  
+  <frame><rect x="0" y="0" w="590" h="420"/></frame>  
+</animation>

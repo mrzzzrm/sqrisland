@@ -1,0 +1,23 @@
+<animation>
+
+  <image path="kite.png"/>
+
+	<frame>
+		<time ms="150"/>
+		<rect x="0"  y="96" w="96" h="96"/>
+	</frame>
+	<frame>
+		<time ms="150"/>
+		<rect x="96"  y="96" w="96" h="96"/>
+	</frame>
+	<frame>
+		<time ms="150"/>
+		<rect x="192"  y="96" w="96" h="96"/>
+	</frame>
+	<frame>
+		<time ms="150"/>
+		<rect x="96"  y="96" w="96" h="96"/>
+	</frame>
+
+
+</animation>

@@ -1,0 +1,9 @@
+<animation>
+  <image path="../egg.png"/>
+  
+  <frame>
+    <time ms="90"/>
+    <rect x="0" y="128" w="64" h="64"/>
+  </frame>
+
+</animation>

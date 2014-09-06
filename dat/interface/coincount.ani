@@ -1,0 +1,5 @@
+<animation>
+  <image path="./coincount.png"/>
+
+  <frame> <rect x="0" y="0" w="74" h="48"/> <time ms="40"/> </frame>
+</animation>

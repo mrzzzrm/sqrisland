@@ -1,0 +1,5 @@
+<animation>
+  <image path="./lifecount.png"/>
+
+  <frame> <rect x="0" y="0" w="89" h="48"/> <time ms="40"/> </frame>
+</animation>
